@@ -1,5 +1,5 @@
 # CodeDaily
-This repository contains my daily LeetCode solutions, covering topics like data structures, dynamic programming, and graph theory. Solutions are provided in Python, C, and C++.
+Every morning, I start my day by solving the LeetCode daily challenge. This repository contains my solutions, covering a broad range of topics and algorithms implemented in Python, C, and C++. NeetCode.io has been an invaluable resource along the way, guiding me through complex concepts and helping me refine my approach.
 
 ## Solution Log
 
