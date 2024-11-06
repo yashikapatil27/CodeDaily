@@ -33,4 +33,10 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 02-24-2024 | [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/?envType=daily-question&envId=2024-02-24) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-24-2024.c) | Depth-First Search, Breadth-First Search, Union Find, Graph, Sorting |
 | 02-25-2024 | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/description/?envType=daily-question&envId=2024-02-25) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-25-2024.py) | Array, Math, Union Find, Number Theory |
 
+| 02-26-2024 | [100. Same Tree](https://leetcode.com/problems/same-tree/description/?envType=daily-question&envId=2024-02-26) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-26-2024.py) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 02-27-2024 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=daily-question&envId=2024-02-27) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-27-2024.c) | Tree, Depth-First Search, Binary Tree |
+| 02-28-2024 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-28-2024.c) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| 02-29-2024 | [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/?envType=daily-question&envId=2024-02-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-29-2024.py) | Tree, Breadth-First Search, Binary Tree |
+
+
 ---
