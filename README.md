@@ -52,6 +52,27 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 03-14-2024 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/?envType=daily-question&envId=2024-03-14) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-14-2024.c) | Array, Hash Table, Sliding Window, Prefix Sum |
 | 03-15-2024 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=daily-question&envId=2024-03-15) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-15-2024.c) | Array, Prefix Sum |
 
+| 03-16-2024 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/?envType=daily-question&envId=2024-03-16) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-16-2024.c) | Array, Hash Table, Prefix Sum |
+| 03-17-2024 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=daily-question&envId=2024-03-17) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-17-2024.c) | Array |
+| 03-18-2024 | [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/?envType=daily-question&envId=2024-03-18) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-18-2024.c) | Array, Greedy, Sorting |
+| 03-19-2024 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/?envType=daily-question&envId=2024-03-19) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-19-2024.py) | Array, Hash Table, Greedy, Sorting, Heap, (Priority Queue), Counting |
+| 03-20-2024 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/?envType=daily-question&envId=2024-03-20) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-20-2024.c) | Linked List |
+
+
+| 03-21-2024 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-21-2024.c) | Linked List, Recursion |
+| 03-22-2024 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/?envType=daily-question&envId=2024-03-22) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-22-2024.c) | Linked List, Two Pointers, Stack, Recursion |
+| 03-23-2024 | [143. Reorder List](https://leetcode.com/problems/reorder-list/description/?envType=daily-question&envId=2024-03-23) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-23-2024.c) | Linked List, Two Pointers, Stack, Recursion |
+| 03-24-2024 | [287. Find the Duplicate Number]() | [Solution](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24) | Array, Two Pointers, Binary Search, Bit Manipulation |
+| 03-25-2024 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/?envType=daily-question&envId=2024-03-25) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-24-2024.c) | Array, Hash Table |
+
+| 03-26-2024 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=daily-question&envId=2024-03-26) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-26-2024.py) | Array, Hash Table |
+| 03-27-2024 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/?envType=daily-question&envId=2024-03-27) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-27-2024.c) | Array, Binary Search, Sliding Window, Prefix Sum |
+| 03-28-2024 | [2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/?envType=daily-question&envId=2024-03-28) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-28-2024.cpp) | Array, Hash Table, Sliding Window |
+| 03-29-2024 | [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-29-2024.c) | Array, Sliding Window |
+| 03-30-2024 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-30-2024.py) | Array, Hash Table, Sliding Window, Counting |
+| 03-31-2024 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-31-2024.py) | Array, Queue, Sliding Window, Monotonic Queue |
+
+
 
 
 
