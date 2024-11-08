@@ -3,10 +3,15 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 
 ## Solution Log
 
+### January 2024
 |           Date             | Problem | Solution                  | Tags |
 |----------------------------|---------|---------------------------|------|
 | 01-30-2024                 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=daily-question&envId=2024-01-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-January%202024/01-30-2024.c) | Array, Math, Stack |
 | 01-31-2024                 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/?envType=daily-question&envId=2024-01-31) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-January%202024/01-31-2024.c) | Array, Stack, Monotonic Stack |
+
+### February 2024
+|           Date             | Problem | Solution                  | Tags |
+|----------------------------|---------|---------------------------|------|
 | 02-01-2024                 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/?envType=daily-question&envId=2024-02-01) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-01-2024.py) | Array, Greedy, Sorting|
 | 02-02-2024                 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2024-02-02) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-02-2024.py) | Enumeration |
 | 02-03-2024                 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/?envType=daily-question&envId=2024-02-03) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-03-2024.py) | Array, Dynamic Programming |
@@ -36,6 +41,10 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 02-27-2024 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=daily-question&envId=2024-02-27) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-27-2024.c) | Tree, Depth-First Search, Binary Tree |
 | 02-28-2024 | [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-28-2024.c) | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | 02-29-2024 | [1609. Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/?envType=daily-question&envId=2024-02-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-February2024/02-29-2024.py) | Tree, Breadth-First Search, Binary Tree |
+
+### March 2024
+|           Date             | Problem | Solution                  | Tags |
+|----------------------------|---------|---------------------------|------|
 | 03-01-2024 | [2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/description/?envType=daily-question&envId=2024-03-01) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-01-2024.c) | Math, String, Greedy |
 | 03-02-2024 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=daily-question&envId=2024-03-02) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-02-2024.py) | Array, Two Pointers, Sorting |
 | 03-03-2024 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=daily-question&envId=2024-03-03) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-03-2024.c) | Linked List, Two Pointers |
@@ -67,6 +76,8 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 03-29-2024 | [2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/?envType=daily-question&envId=2024-03-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-29-2024.c) | Array, Sliding Window |
 | 03-30-2024 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/?envType=daily-question&envId=2024-03-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-30-2024.py) | Array, Hash Table, Sliding Window, Counting |
 | 03-31-2024 | [2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=daily-question&envId=2024-03-31) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-March2024/03-31-2024.py) | Array, Queue, Sliding Window, Monotonic Queue |
+
+
 
 
 
