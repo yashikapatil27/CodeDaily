@@ -6,8 +6,8 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 ### January 2024
 |           Date             | Problem | Solution                  | Tags |
 |----------------------------|---------|---------------------------|------|
-| 01-30-2024                 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=daily-question&envId=2024-01-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-January%202024/01-30-2024.c) | Array, Math, Stack |
-| 01-31-2024                 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/?envType=daily-question&envId=2024-01-31) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-January%202024/01-31-2024.c) | Array, Stack, Monotonic Stack |
+| 01-30-2024                 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=daily-question&envId=2024-01-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-January2024/01-30-2024.c) | Array, Math, Stack |
+| 01-31-2024                 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/?envType=daily-question&envId=2024-01-31) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-January2024/01-31-2024.c) | Array, Stack, Monotonic Stack |
 
 ### February 2024
 |           Date             | Problem | Solution                  | Tags |
