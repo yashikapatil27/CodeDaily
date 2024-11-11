@@ -111,6 +111,14 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 04-29-2024 | [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=daily-question&envId=2024-04-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-April2024/04-29-2024.py) | Array, Bit Manipulation |
 | 04-30-2024 | [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/?envType=daily-question&envId=2024-04-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-April2024/04-30-2024.py) | Hash Table, String, Bit Manipulation, Prefix Sum |
 
+### May 2024
+|           Date             | Problem | Solution                  | Tags |
+|----------------------------|---------|---------------------------|------|
+| 05-01-2024 | [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=daily-question&envId=2024-05-01) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-01-2024.c) | Two Pointers, String, Stack |
+| 05-02-2024 | [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-02-2024.c) | Array, Hash Table, Two Pointers, Sorting |
+| 05-03-2024 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2024-05-03) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-03-2024.py) | Two Pointers, String |
+| 05-04-2024 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-05-04) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-04-2024.c) | Array, Two Pointers, Greedy, Sorting |
+| 05-05-2024 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-05-2024.c) | Linked List |
 
 
 
