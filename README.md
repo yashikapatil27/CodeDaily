@@ -145,4 +145,14 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 05-29-2024 | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-29-2024.py) | String, Bit Manipulation |
 | 05-30-2024 | [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-30-2024.py) | Array, Hash Table, Math, Bit Manipulation, Prefix Sum |
 | 05-31-2024 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/?envType=daily-question&envId=2024-05-31) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-May2024/05-31-2024.py) | Array, Bit Manipulation |
+
+### June 2024
+|           Date             | Problem | Solution                  | Tags |
+|----------------------------|---------|---------------------------|------|
+| 05-01-2024 | [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-01-2024.c) | String |
+| 05-02-2024 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/?envType=daily-question&envId=2024-06-02) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-02-2024.py) | Two Pointers, String |
+| 05-03-2024 | [2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/?envType=daily-question&envId=2024-06-03) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-03-2024.py) | Two Pointers, String, Greedy |
+| 05-04-2024 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=daily-question&envId=2024-06-04) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-04-2024.py) | Hash Table, String, Greedy |
+| 05-05-2024 | [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/description/?envType=daily-question&envId=2024-06-05) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-05-2024.py) | Array, Hash Table, String |
+
 ---
