@@ -180,5 +180,13 @@ Every morning, I start my day by solving the LeetCode daily challenge. This repo
 | 06-29-2024 | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/?envType=daily-question&envId=2024-06-29) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-29-2024.py) | Depth-First Search, Breadth-First Search, Graph, Topological Sort |
 | 06-30-2024 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/?envType=daily-question&envId=2024-06-30) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-June2024/06-30-2024.py) | Union Find, Graph |
 
+### July 2024
+|           Date             | Problem | Solution                  | Tags |
+|----------------------------|---------|---------------------------|------|
+| 07-01-2024 | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-July2024/07-01-2024.py) | Array |
+| 07-02-2024 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=daily-question&envId=2024-07-02) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-July2024/07-02-2024.py) | Array, Hash Table, Two Pointers, Binary Search, Sorting |
+| 07-03-2024 | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/?envType=daily-question&envId=2024-07-03) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-July2024/07-03-2024.py) | Array, Greedy, Sorting |
+| 07-04-2024 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-July2024/07-04-2024.py) | Linked List, Simulation |
+| 07-05-2024 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05) | [Solution](https://github.com/yashikapatil27/CodeDaily/blob/main/Solutions-July2024/07-05-2024.py) | Linked List |
 
 ---
